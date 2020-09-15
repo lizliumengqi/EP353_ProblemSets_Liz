@@ -1,29 +1,29 @@
-###Project Name
+###Project Name###
 Problem Set 1
 
-###Submitted by
+###Submitted by###
 Liz Liu
 
-###For Course
+###For Course###
 EP-353
 
-###Due Date
+###Due Date###
 11:59:59 PM on 9/15/2020
 
-###Submission Date
+###Submission Date###
 4:35 AM on 9/15/2020
 
-###Files Included
+###Files Included###
 * README.md
 * helloworld.c
 
-###Purpose
+###Purpose###
 The purpose of this problem set was to understand how to use GitHub, Markdown, and compile a C program using CLI.
 
-###Description
+###Description###
 This program prints out Hello, World! in the terminal window.
 
-###Build and Run Commands
+###Build and Run Commands###
 The Problem Set 1.1 and 1.2 do not require any build and run commands. To build Problem Set 1.3, use:
 
 ```
@@ -36,5 +36,5 @@ To run the compiled `helloworld` program, use:
 ./helloworld
 ```
 
-###Acknowledgement
+###Acknowledgement###
 I used the [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) on GitHub to figure out the syntax for Markdown.
