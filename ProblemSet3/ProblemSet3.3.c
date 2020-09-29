@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-//there's a clang error and I don't know why, so I can't print to see if this works correctly
+//there's a clang error I don't know how to solve, so I can't print to see if this works correctly
 
 int main(){
     int i;
