@@ -1,50 +1,48 @@
 #include <stdio.h>
 #include <math.h>
 
-//there's a clang error I don't know how to solve, so I can't print to see if this works correctly
-
 int main(){
     int i;
 
-    for(int i = 0; i <= 11; i++){
-        //printf("%d\n", i);
+    for(int i = 0; i < 12; i++){
+        //printf("%i\n", i);
         switch(i){
-            case '0':
-                printf("C");
+            case 0:
+                printf("C\t");
                 break;
-            case '1':
-                printf("Db");
+            case 1:
+                printf("Db\t");
                 break;
-            case '2':
-                printf("D");
+            case 2:
+                printf("D\t");
                 break;
-            case '3':
-                printf("Eb");
+            case 3:
+                printf("Eb\t");
                 break;
-            case '4':
-                printf("E");
+            case 4:
+                printf("E\t");
                 break;
-            case '5':
-                printf("F");
+            case 5:
+                printf("F\t");
                 break;
-            case '6':
-                printf("Gb");
+            case 6:
+                printf("Gb\t");
                 break;
-            case '7':
-                printf("G");
+            case 7:
+                printf("G\t");
                 break;
-            case '8':
-                printf("Ab");
+            case 8:
+                printf("Ab\t");
                 break;
-            case '9':
-                printf("A");
+            case 9:
+                printf("A\t");
                 break;
-            case '10':
-                printf("Bb");
+            case 10:
+                printf("Bb\t");
                 break;
-            case '11':
-                printf("B");
+            case 11:
+                printf("B\t");
+                break;
         }
     }
-
 }
