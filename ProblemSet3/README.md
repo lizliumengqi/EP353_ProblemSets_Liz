@@ -1,5 +1,5 @@
 ### Project Name ###
-Problem Set 1
+Problem Set 3
 
 ### Submitted by ###
 Liz Liu
