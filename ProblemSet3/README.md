@@ -8,10 +8,10 @@ Liz Liu
 EP-353
 
 ### Due Date ###
-2:00 PM on 9/29/2020
+5:00 PM on 9/30/2020
 
 ### Submission Date ###
-2:43 PM on 9/29/2020
+3:50 PM on 9/30/2020
 
 ### Files Included ###
 * README.md
